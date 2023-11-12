@@ -1,0 +1,9 @@
+{
+  "name": "onspring-playwright-reporter",
+  "version": "1.0.0",
+  "description": "A reporter used to add test results to an Onspring instance.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Stevan Freeborn",
+  "license": "MIT"
+}
